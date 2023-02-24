@@ -1,0 +1,4 @@
+name: Sake
+version: '${project.version}'
+main: san.kuroinusan.sake.Sake
+api-version: 1.17
